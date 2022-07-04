@@ -3,9 +3,10 @@
 // For use by Kadra apps
 
 #include "Kadra/Application.h"
+#include "Kadra/Log.h"
 
-// -->Entry point<--
+// ----------------->Entry point<-----------------
 
 #include "Kadra/EntryPoint.h"
 
-// -----------------
+// -----------------------------------------------

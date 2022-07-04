@@ -2,8 +2,8 @@
 
 #include "Core.h"
 
-namespace Kadra {
-
+namespace Kadra 
+{
 	class KADRA_API Application
 	{
 	public:

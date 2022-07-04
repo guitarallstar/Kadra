@@ -1,0 +1,3 @@
+[submodule "Kadra/vendor/spdlog"]
+	path = Kadra/vendor/spdlog
+	url = https://github.com/gabime/spdlog
